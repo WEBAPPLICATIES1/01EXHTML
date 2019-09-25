@@ -67,5 +67,6 @@ Maak onderstaande:
 
 ## Oefening15
 Maak onderstaande. Samenvattende oefening met bijna alle elementen uit HTML basis en wat online zoekwerk.
+Hou tijdens de opbouw de verandering in het oog via de LiveServer en let op de naam van het tabblad.
 
-![](images/o15.png)
+![](images/o15.PNG)
