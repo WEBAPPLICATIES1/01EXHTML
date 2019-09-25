@@ -64,3 +64,8 @@ Bewaar deze afbeeldingen in een aparte folder (bvb images).
 Maak onderstaande:
 
 ![](images/o14.png)
+
+## Oefening15
+Maak onderstaande. Samenvattende oefening met bijna alle elementen uit HTML basis en wat online zoekwerk.
+
+![](images/o15.png)
