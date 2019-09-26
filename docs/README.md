@@ -71,3 +71,26 @@ Hou tijdens de opbouw de verandering in het oog via de LiveServer en let op de n
 
 ![](images/o15.PNG)
 
+## Oefening16
+We ontwikkelen volgende mobiele webpagina, week na week werken we verder aan dezelfde oefening. 
+Ons uiteindelijk resultaat is een webpagina die optimaal aangepast is voor zowel desktop, tablet als mobile:
+
+![](images/o16a.png)
+![](images/o16b.png)
+![](images/o16c.png)
+
+### Deel 1: aanmaken html
+
+In het eerste deel van de oefening maken we het html deel.
+1.	We maken een nieuwe html pagina met als naam index.html
+2.	Vul de titel van de pagina aan: Yoko’s kitchen 
+3.	Vul de html pagina aan, rekening houdende met de html boom structuur: 
+
+![](images/o16d.png)
+
+Het resultaat:
+
+![](images/o16e.png)
+![](images/o16f.png)
+
+
