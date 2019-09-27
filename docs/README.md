@@ -10,7 +10,7 @@ Ga nu naar Visual Studio Code en open deze map.
 De eerste oefening bevat 15 kleine oefeningen om de basistags te leren gebruiken.
 
 Maak eerst een map in de root aan: **driloefeningen**. 
-Voor elke oefening (D01- D02) maak je een nieuwe html bestand aan met als naam oefeningxx.html, waarbij de xx vervangen wordt door het nummer van de oefening. Zo maak je voor oefening 1 een html bestand aan met de naam *oefening01.html*.
+Voor elke oefening (D01- D15) maak je een nieuwe html bestand aan met als naam oefeningxx.html, waarbij de xx vervangen wordt door het nummer van de oefening, tenzij anders vermeld. Zo maak je voor oefening 1 een html bestand aan met de naam *oefening01.html*.
 
 Om de structuur van een html pagina snel aan te maken in de editor, gebruik je emmet (!tab).
 
